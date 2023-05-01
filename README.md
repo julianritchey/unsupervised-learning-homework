@@ -41,7 +41,7 @@ Module 10 challenge: Crypto clustering
 - Plots duplicate the previously-formed elbow curve plots for the original dataset and the PCA dataset.
 
 ### Code block 33 (scatter plots)
-- Plots duplicate the preiously-formed scatter plots for the original dataset and the PCA dataset.
+- Plots duplicate the previously-formed scatter plots for the original dataset and the PCA dataset.
 
 ### Question: After visually analysing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-means?
 **Answer:** The clusters are more clearly defined and more tightly grouped.
